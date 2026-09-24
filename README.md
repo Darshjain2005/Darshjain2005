@@ -15,8 +15,6 @@
   <a href="https://github.com/Darshjain2005" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Darshjain2005&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
 </div>
 
 ---
@@ -140,8 +138,6 @@ Built for **Smart India Hackathon** — operates behind hardware data diodes wit
 <img src="https://img.shields.io/badge/🏅_Hackathon_Finalist-Quantum_Hack_2026-58A6FF?style=for-the-badge&labelColor=0D1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/🌟_Open_Source-GSSoC_2026_Contributor-58A6FF?style=for-the-badge&labelColor=0D1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/🎓_B.E._Computer_Engg-A.P._Shah_Institute-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -190,7 +186,7 @@ Built for **Smart India Hackathon** — operates behind hardware data diodes wit
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshjain2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Darshjain2005&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
