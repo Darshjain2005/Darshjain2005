@@ -181,8 +181,19 @@ Built for **Smart India Hackathon** — operates behind hardware data diodes wit
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshjain2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshjain2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+  <a href="https://github.com/Darshjain2005">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshjain2005&theme=tokyonight" alt="Contribution Graph" width="95%"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshjain2005&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Darshjain2005&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshjain2005&theme=tokyonight" alt="Top Languages by Repo" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Darshjain2005&theme=tokyonight" alt="Top Languages by Commit" height="170"/>
 </div>
 
 <div align="center">
@@ -190,7 +201,7 @@ Built for **Smart India Hackathon** — operates behind hardware data diodes wit
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshjain2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Darshjain2005&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" width="95%"/>
 </div>
 
 ---
