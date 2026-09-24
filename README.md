@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Darsh+Jain;Building+AI+Systems+That+Defend+%F0%9F%9B%A1%EF%B8%8F+%26+Decide+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Darsh+Jain" alt="Typing SVG" />
 
   <p>
     <strong>Computer Engineering Student • AI/ML & Cybersecurity Builder • Data-Driven Problem Solver</strong>
